@@ -8,7 +8,7 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 
 ## About Me 💬
 ### Studying in this moment 🌱
-<div align="left">
+<div align="center">
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 </div>
 
 ## Contacts 📫
-<div align="left"> 
+<div align="center"> 
     <p>Feel free to reach out to me through the following platforms:</p>
     <a href="www.linkedin.com/in/ernane-nunes-2134aa31a/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
