@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-
+## About Me 💬
 <p align="center">
   I am in the process of changing careers and am currently studying Systems Analysis and Development. I have always liked technology and due to lack of options I ended up not following this area and focusing my career on the area of ​​Agricultural and Biological Sciences, but now at the age of 37, I have decided to go head first into the programming area.
 </p>
@@ -25,18 +24,15 @@ Here are some ideas to get you started:
     <img width="400px" height="200px" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiernanennanuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 
-### Studying in this moment:
+## Studying in this moment 🌱
 <div align="left">
-  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
-
 ## Contacts
-
 <div align="center"> 
     <p>Feel free to reach out to me through the following platforms:</p>
     <a href="www.linkedin.com/in/ernane-nunes-2134aa31a/" target="_blank">
