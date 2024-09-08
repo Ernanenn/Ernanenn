@@ -5,6 +5,7 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 <p>Now, at 37 years old and with a young son, I decided to dive headfirst into programming and try to enter the job market to do what I really like: solving problems and creating solutions!
 <p>Thank you for visiting my profile.
 </p>
+![Profile visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fernanenn&label=Profile%20visitors&countColor=%23263759)
 
 ## About Me 💬
 ### Studying in this moment 🌱
