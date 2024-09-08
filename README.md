@@ -23,10 +23,11 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 ## Contacts 📫
 <div align="center"> 
     <p>Feel free to reach out to me through the following platforms:</p>
-    <a href="www.linkedin.com/in/ernane-nunes-2134aa31a/" target="_blank">
+    <a href="www.linkedin.com/in/ernane-nunes-2134aa31a" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:ernanenn@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-%D15F4?style=for-the-badge&logo=gmail&logoColor=red&white=%234285F4" alt="Gmail">
+      <img src="https://img.shields.io/badge/-Gmail-%D15F4?style=for-the-badge&logo=gmail&logoColor=red&color=transparent" alt="Gmail">
     </a>
 </div>
