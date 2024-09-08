@@ -21,8 +21,8 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 </div>
 
 ## Contacts 📫
+### Feel free to reach out to me through the following platforms
 <div align="center"> 
-    <p>Feel free to reach out to me through the following platforms:</p>
     <a href="www.linkedin.com/in/ernane-nunes-2134aa31a" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
