@@ -1,13 +1,10 @@
 ## Hi there 👋
 <p align="justify">
-Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process of changing careers. I'm currently studying Systems Analysis and Development. </p>
-<p>I've always liked technology, but due to a lack of options and the choices that life imposes on us, I ended up not pursuing a career in technology and instead built my career in Agricultural and Biological Sciences, but always trying to get closer to technology. </p>
-<p>Now, at 37 years old and with a young son, I decided to dive headfirst into programming and try to enter the job market to do what I really like: solving problems and creating solutions!</p>
+Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process of changing careers. I'm currently studying Systems Analysis and Development.
+<p>I've always liked technology, but due to a lack of options and the choices that life imposes on us, I ended up not pursuing a career in technology and instead built my career in Agricultural and Biological Sciences, but always trying to get closer to technology.
+<p>Now, at 37 years old and with a young son, I decided to dive headfirst into programming and try to enter the job market to do what I really like: solving problems and creating solutions!
 <p>Thank you for visiting my profile.
 </p>
-<div align="center">
-    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
-</div>
 
 ## About Me 💬
 ### Studying in this moment 🌱
@@ -18,6 +15,7 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 </div>
+
 <div align="center">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </div>
