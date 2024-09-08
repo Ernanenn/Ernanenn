@@ -17,7 +17,7 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 </div>
 
 <div align="center">
-    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
+    <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </div>
 
 ## Contacts 📫
