@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-    <img width="400px" height="200px" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiernanennanuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </div>
 
 ## Studying in this moment 🌱
