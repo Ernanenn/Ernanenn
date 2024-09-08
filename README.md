@@ -27,6 +27,6 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:ernanenn@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%D15F4?style=for-the-badge&logo=gmail&logoColor=red&white" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-%D15F4?style=flat-square&logo=gmail&logoColor=white&color=%234285F4" alt="Gmail">
     </a>
 </div>
