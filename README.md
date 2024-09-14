@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <p align="justify"> Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process of changing careers. I am currently studying Systems Analysis and Development.
 <p align="justify">I always liked technology, but due to the lack of options and choices that life imposes on us, I ended up not pursuing a career in technology and instead built my career in Agricultural and Biological Sciences, but always trying to get closer to technology.
 <p align="justify">Now, at 37 years old and with a young son, I decided to dive head first into programming (studying to be a backend) and try to enter the job market to do what I really enjoy: solving problems and creating solutions!
