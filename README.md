@@ -9,7 +9,7 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fernanenn&label=Profile%20visitors&countColor=%23263759" alt="Profile visitors" style="pointer-events: none;">
 </p>
 
-## About Me 💬
+## About Me 💬 <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
 ### Studying in this moment 🌱
 <div align="center">
   
