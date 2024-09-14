@@ -12,24 +12,27 @@ Welcome to my Github profile. I'm Ernane Nogueira Nunes and I'm in the process o
 
 ## About Me 💬
 ### Studying in this moment 🌱
-<div align="center">
-  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>          
- </tr>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+<tr>
+    
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<br>Python
+</td>
+<tr>
+<td align="center" width="96"> 
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+<br>Git
+</td>          
+</tr>
+</table>
 </div>
 
 <div align="center">
