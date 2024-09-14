@@ -36,7 +36,7 @@
 </table>
 </div>
 
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+<h2 align="left"> Github Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 <div align="center">
     <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernanenn&theme=dark&show_icons=true&layout=compact" alt="Top Languages"/>
 </div>
