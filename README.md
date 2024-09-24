@@ -12,12 +12,8 @@
 ## About Me 💬 <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
 ### Studying in this moment 🌱
 <div style="display: flex; align-items: flex-start; align: center">
-
-<td align="center" width="96"> 
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-<br>Git
-  
 <table align="center">
+
 <tr>
 <td align="center" width="96">  
   
@@ -42,9 +38,13 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
     <br>Python
 </td>
-  
+
+<td align="center" width="96"> 
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+<br>Git
 </td>          
 </tr>
+
 </table>
 </div>
 
