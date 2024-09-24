@@ -24,15 +24,15 @@
   
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </td>
-
-<td align="center" width="96">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-<br>NodeJS
-</td>
  
 <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <br>JavaScript
+</td>
+
+<td align="center" width="96">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<br>NodeJS
 </td>
 
 <td align="center" width="96">
