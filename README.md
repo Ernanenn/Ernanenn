@@ -11,7 +11,7 @@
 
 ## About Me 💬 <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
 ### Studying in this moment 🌱
-<div align="left">
+<div style="display: flex; align-items: flex-start; align: center">
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br>
 
