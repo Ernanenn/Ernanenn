@@ -17,14 +17,12 @@
 <tr>
 <td align="center" width="96">
 
-<![HTML] src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="icon" width="65" height="65" />
-<br>HTML5
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </td>
 
 <td align="center" width="96">
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<br>CSS
 </td>
 
 <td align="center" width="96">
