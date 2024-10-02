@@ -24,11 +24,13 @@
 <td align="center" width="96">  
   
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ <br>
 <br>CSS
 </td>
 
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+   <br>
   <br>MySQL
 </td>
 
