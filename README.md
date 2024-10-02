@@ -17,7 +17,7 @@
 <tr>
 <td align="center" width="96">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<![HTML] src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="icon" width="65" height="65" />
 <br>HTML5
 </td>
 
@@ -29,7 +29,6 @@
 
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-   <br>
   <br>MySQL
 </td>
 
