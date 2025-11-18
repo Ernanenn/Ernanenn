@@ -28,15 +28,15 @@ Thank you for visiting my profile.
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Badge"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Badge"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Badge"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Badge"/>
   
-  <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Rest_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="Rest API Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <br> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Badge"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Badge"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API Badge"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Badge"/>
 </div>
 
 ---
