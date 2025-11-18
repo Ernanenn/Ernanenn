@@ -23,20 +23,9 @@ Thank you for visiting my profile.
 
 ## About Me 💬
 
-Ótimo! Para ter as imagens em formato SVG e com o tamanho 65x65 para a seção de tecnologias, você pode usar os ícones do Devicons ou de fontes semelhantes, aplicando o resize diretamente no HTML da imagem.
-
-Como você já estava usando alguns badges do shields.io, que são ótimos e em SVG, e alguns do techstack-generator, vou adaptar a sua lista para usar ícones SVG mais padronizados, garantindo o tamanho 65x65 e mantendo o layout em duas linhas.
-
-Aqui está o código otimizado:
-
-🛠️ Código Otimizado com SVGs (65x65) em Duas Linhas
-Substitua a sua seção ### Studying in this moment 🌱 por este bloco:
-
-Markdown
-
 ### Studying in this moment 🌱
 <div style="display: flex; justify-content: center;">
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; align: center;">
   <tr>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
