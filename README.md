@@ -23,20 +23,52 @@ Thank you for visiting my profile.
 
 ## About Me 💬
 
+Ótimo! Para ter as imagens em formato SVG e com o tamanho 65x65 para a seção de tecnologias, você pode usar os ícones do Devicons ou de fontes semelhantes, aplicando o resize diretamente no HTML da imagem.
+
+Como você já estava usando alguns badges do shields.io, que são ótimos e em SVG, e alguns do techstack-generator, vou adaptar a sua lista para usar ícones SVG mais padronizados, garantindo o tamanho 65x65 e mantendo o layout em duas linhas.
+
+Aqui está o código otimizado:
+
+🛠️ Código Otimizado com SVGs (65x65) em Duas Linhas
+Substitua a sua seção ### Studying in this moment 🌱 por este bloco:
+
+Markdown
+
 ### Studying in this moment 🌱
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <td align="center" width="96"/td>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Badge"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Badge"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Badge"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Badge"/>
-  
-  <br> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Badge"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Badge"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API Badge"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Badge"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="65" height="65"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="65" height="65"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65"/>
+  </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="65" height="65"/>
+  </a>
+  <a href="https://nodejs.org/pt-br" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="65" height="65"/>
+  </a>
+
+  <br><br> <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="65" height="65"/>
+  </a>
+  <img src="https://img.shields.io/badge/Rest_API-000000?style=flat-square&logo=appwrite&logoColor=white&labelColor=263759" alt="REST API" width="130" height="30"/>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="65" height="65"/>
+  </a>
+  <a href="https://github.com/ernanenn" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65"/>
+  </a>
 </div>
 
 ---
