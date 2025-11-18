@@ -29,50 +29,50 @@ Thank you for visiting my profile.
 <table style="border-collapse: separate; border: none; border-spacing: 15px;"> <tr>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
-      <br>**HTML5**
+      <br>HTML5
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
-      <br>**CSS3**
+      <br>CSS3
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
-      <br>**JavaScript**
+      <br>JavaScript
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
-      <br>**TypeScript**
+      <br>TypeScript
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="65" height="65" />
-      <br>**React**
+      <br>React
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="65" height="65" />
-      <br>**NodeJS**
+      <br>NodeJS
     </td>
   </tr>
     
   <tr>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" />
-      <br>**MySQL**
+      <br>MySQL
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="65" height="65" />
-      <br>**Python**
+      <br>Python
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="API Rest (Postman)" width="65" height="65" />
-      <br>**API Rest**
+      <br>API Rest
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-      <br>**Git**
+      <br>Git
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
-      <br>**GitHub**
+      <br>GitHub
     </td>
     <td align="center"> </td> 
   </tr>
