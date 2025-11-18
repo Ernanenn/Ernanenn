@@ -24,9 +24,8 @@ Thank you for visiting my profile.
 ## About Me 💬
 
 ### Studying in this moment 🌱
-<div style="display: flex; justify-content: center;">
-<table style="border-collapse: collapse; border: none; align: center;">
-  <tr>
+
+<div align="center"> <table style="border-collapse: separate; border: none; border-spacing: 10px;"> <tr>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
     </td>
@@ -62,8 +61,7 @@ Thank you for visiting my profile.
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
     </td>
-    <td align="center">
-      </td>
+    <td align="center"> </td> 
   </tr>
 </table>
 </div>
