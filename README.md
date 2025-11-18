@@ -36,15 +36,15 @@ Thank you for visiting my profile.
       <br>CSS3
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
@@ -55,7 +55,7 @@ Thank you for visiting my profile.
     
   <tr>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
