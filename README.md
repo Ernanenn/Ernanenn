@@ -48,7 +48,7 @@ Thank you for visiting my profile.
       <br>React
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="65" height="65" />
       <br>NodeJS
     </td>
   </tr>
@@ -59,7 +59,7 @@ Thank you for visiting my profile.
       <br>MySQL
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
@@ -71,7 +71,7 @@ Thank you for visiting my profile.
       <br>Git
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center"> </td> 
