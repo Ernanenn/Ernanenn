@@ -63,7 +63,7 @@ Thank you for visiting my profile.
       <br>Python
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="API Rest (Postman)" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="65" height="65" />
       <br>API Rest
     </td>
     <td align="center" style="padding: 10px; background-color: #f0f0f0; border-radius: 8px;">
